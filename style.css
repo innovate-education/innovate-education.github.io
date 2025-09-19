@@ -1,0 +1,41 @@
+header{
+    background-color: green;
+}
+footer{
+    background-color: green;
+}
+
+
+
+
+nav {
+  background-color: darkgray; /* Set background color */
+  padding: 10px 0; /* Add padding */
+}
+
+/* Styles for the unordered list */
+nav ul {
+  list-style-type: none; /* Remove bullet points */
+  margin: 0;
+  padding: 0;
+  display: flex; /* Use Flexbox to align items horizontally */
+  justify-content: center; /* Center items */
+}
+
+/* Styles for each list item */
+nav li {
+  margin: 0 15px; /* Add spacing between list items */
+}
+
+/* Styles for the navigation links */
+nav a {
+  color: white; /* Link color */
+  text-decoration: none; /* Remove underline */
+  padding: 5px 10px; /* Add padding */
+  display: block; /* Make links block elements for better padding/margins */
+}
+
+/* Hover effect for links */
+nav a:hover {
+  background-color: lightgray; /* Change background on hover */
+}

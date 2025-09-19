@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <title>Home</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="Welcome to my awesome website!">
+        <link rel="stylesheet" href="style.css">
+        e
+    </head>
+<body> 
+    <header>
+        <h1>Innovate Education</h1>
+        
+        <nav>
+            <ul>
+            <li><a href="aboutus">About Us!</a></li>
+            <li><a href="courses">Courses</a></li>
+            </ul>
+        </nav>
+
+    </header>
+    
+    <p>actual content</p> 
+
+    <footer>links and stuff</footer>
+    <script src="myScript.js"></script>
+</body>
+
+</html>
