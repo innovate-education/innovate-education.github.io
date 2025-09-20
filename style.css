@@ -46,6 +46,7 @@ nav a {
   text-decoration: none; /* Remove underline */
   padding: 5px 10px; /* Add padding */
   display: block; /* Make links block elements for better padding/margins */
+  font-size: (8px,1.5vw,20px);
 }
 
 /* Hover effect for links */
@@ -65,4 +66,8 @@ nav a:hover ~ .current{
 
 iframe{
   align-self: center;
+}
+
+header h1{
+  font-size: clamp(30px, 6vw, 40px);
 }
